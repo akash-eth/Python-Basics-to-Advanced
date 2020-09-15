@@ -1,3 +1,3 @@
-# Basics-of-python
-Basic programs in python.
-General flow of programming concepts where one can have a overview of basi fundamentals of python.
+## Basics-of-python ##
+1. Basic to Advanced python programs.
+2. General flow of programming concepts where one can have a overview of basic fundamentals of python.
